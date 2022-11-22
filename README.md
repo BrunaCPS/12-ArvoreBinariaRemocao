@@ -1,5 +1,5 @@
 # Arvores (remoção de  elemento)
-Bruna Costa Pinheiro de Souza
+Bruna Costa Pinheiro de Souza - e-mail: buna.souza88@fatec.sp.gov.br
 ---
 
 ## Objetivos
